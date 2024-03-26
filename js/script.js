@@ -1,1 +1,1 @@
-// ini javascript JS
+//ini scipt jss
