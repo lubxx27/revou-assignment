@@ -15,9 +15,19 @@ hr {
     width: 40px;
     height: 40px;
     border: 1px solid;
+    border-radius: 50%;
 }
 
 .nav-container > button{
     height: 25px;
 
+}
+
+.section-container {
+    padding-top: 40px;
+    padding-bottom: 24px;
+}
+
+.section-content-container {
+    display: flex;
 }
