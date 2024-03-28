@@ -1,0 +1,105 @@
+.header-container {
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 24px ;
+    padding-right: 24px ;
+}
+
+hr {
+    margin: 8px;
+}
+
+.logo-icon {
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-image: url(../assets/d6033c2fa5602afb5eeb36a258798502.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-container > button{
+    height: 25px;
+
+}
+
+.section-container {
+    padding-top: 40px;
+    padding-bottom: 24px;
+    
+}
+
+.section-content-container {
+    display: flex;
+    
+}
+.form-section {
+    text-align:center ;
+}
+
+.name-input {
+    height: 24px;
+    width: auto;
+    border: 1px solid;
+    border-radius: 16px;
+    text-align: center;
+}
+
+button {
+    height: 40px;
+    width: 170px;
+    color: white;
+    background-color: black;
+    border: 1px;
+    border-radius: 8px;
+}
+
+.logo-icon-2 {
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-image: url(../assets/mba\ wounyoung.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.the-container {
+    display: flex;
+    text-justify: auto;
+    padding-left: 20px ;
+    padding-right: 1px ;
+    align-items: center;
+}
+
+.content-center {
+    text-align: center;
+}
+
+.logo-icon-3 {
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-image: url(../assets/d6033c2fa5602afb5eeb36a258798502.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.wounyoung {
+    display: flex;
+}
+
+.content-center1 {
+    display: flexbox;
+    text-align: center;
+
+}
+
+.content-center2 {
+    text-align: center;
+}
